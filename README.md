@@ -28,6 +28,9 @@ Dentro de este pequeño repositorio meramente visual encontrarás enlaces a recu
 ### Ethical Hacking.
 🇬🇧 🆓🎓 Ethical Hacking Essentials por ECCouncil : https://codered.eccouncil.org/course/ethical-hacking-essentials?logged=false
 
+🇬🇧 🆓 PortSwigger Web Hacking : https://portswigger.net/web-security
+
+🇬🇧 🆓 Read Teaming por TaggartInstitute : https://taggartinstitute.org/p/responsible-red-teaming
 
 ### Information Security.
 🇬🇧 🆓🎓 Risk management por OpenLearn : https://www.open.edu/openlearn/money-business/risk-management?active-tab=description-tab
@@ -41,3 +44,18 @@ Introduction to Dark Web, Anonymity, and Cryptocurrency por ECCouncil : https://
 
 ### Vulnerability Management.
 🇬🇧 🆓🎓 Vulnerability Management por Qualys : https://www.qualys.com/training/
+
+
+### Security Operations Center | Security Analyst.
+🇬🇧 🆓🎓 Splunk Essentials : https://www.splunk.com/en_us/training/free-courses/overview.html
+
+🇬🇧 🆓🎓 Digital Forensics Essentials (DFE) por ECCouncil : https://codered.eccouncil.org/course/digital-forensics-essentials?logged=false
+
+
+
+### Cloud en general o Security.
+🇬🇧 💵🆓🎓 Amazon Web Services : https://explore.skillbuilder.aws/learn/signin
+
+🇬🇧 🆓🎓 Microsoft Azure : https://learn.microsoft.com/en-us/training/azure/
+
+🇬🇧 🆓🎓 Google Cloud : https://cloud.google.com/learn/training
