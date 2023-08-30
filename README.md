@@ -8,6 +8,17 @@ Dentro de este pequeño repositorio meramente visual encontrarás enlaces a recu
 
 💵 | 🆓 - *Curso de paga | Curso Gratuito.*
 
-🇬🇧 | 🇪🇸 - *Curso en inglés | Curso en español*
+🇬🇧 | 🇪🇸 - *Curso en inglés | Curso en español.*
 
-🎓 - *Cuenta con certificado al completar*
+🎓 - *Cuenta con certificado al completar.*
+
+
+## Cursos.
+
+### Cyberseguridad en general.
+🇬🇧 🇪🇸 🆓 ISC2 Certified in Cybersecurity : https://www.isc2.org/Certifications/CC
+🇬🇧 🇪🇸 🆓 Cisco Introduction to Cybersecurity : https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity
+
+
+### Ethical Hacking.
+
