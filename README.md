@@ -16,8 +16,11 @@ Dentro de este pequeño repositorio meramente visual encontrarás enlaces a recu
 ## Cursos.
 
 ### Cyberseguridad en general.
-🇬🇧 🇪🇸 🆓 ISC2 Certified in Cybersecurity : https://www.isc2.org/Certifications/CC
-🇬🇧 🇪🇸 🆓 Cisco Introduction to Cybersecurity : https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity
+🇬🇧 🇪🇸 🆓🎓 ISC2 Certified in Cybersecurity : https://www.isc2.org/Certifications/CC
+
+🇬🇧 🇪🇸 🆓🎓 Cisco Introduction to Cybersecurity : https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity
+
+🇬🇧 🇪🇸 🆓🎓 Fortinet Cybersecurity Awareness Certification NSE 1, 2 y 3 : https://www.fortinet.com/training-certification
 
 
 ### Ethical Hacking.
