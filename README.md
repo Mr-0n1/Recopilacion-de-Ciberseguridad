@@ -7,5 +7,7 @@ Dentro de este pequeño repositorio meramente visual encontrarás enlaces a recu
 *Cada enlace contará con distintos emojis que simbolizarán el tipo de contenido que es:*
 
 💵 | 🆓 - *Curso de paga | Curso Gratuito.*
+
 🇬🇧 | 🇪🇸 - *Curso en inglés | Curso en español*
+
 🎓 - *Cuenta con certificado al completar*
