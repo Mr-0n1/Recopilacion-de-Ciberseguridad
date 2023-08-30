@@ -22,6 +22,13 @@ Dentro de este pequeño repositorio meramente visual encontrarás enlaces a recu
 
 🇬🇧 🇪🇸 🆓🎓 Fortinet Cybersecurity Awareness Certification NSE 1, 2 y 3 : https://www.fortinet.com/training-certification
 
+🇬🇧 🆓 How to Pass your SY0-601 Security+ Exam : https://www.youtube.com/watch?v=9NE33fpQuw8&list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8
+
 
 ### Ethical Hacking.
+
+🇬🇧 🆓 🎓 Ethical Hacking Essentials : https://codered.eccouncil.org/course/ethical-hacking-essentials?logged=false
+
+### Information Security.
+
 
