@@ -39,7 +39,7 @@ Dentro de este pequeño repositorio meramente visual encontrarás enlaces a recu
 
 🇬🇧 🆓🎓 Intro to Information Security por Udacity : https://www.udacity.com/course/intro-to-information-security--ud459
 
-Introduction to Dark Web, Anonymity, and Cryptocurrency por ECCouncil : https://codered.eccouncil.org/course/introduction-to-dark-web-anonymity-and-cryptocurrency?logged=false
+🇬🇧 🆓🎓 Introduction to Dark Web, Anonymity, and Cryptocurrency por ECCouncil : https://codered.eccouncil.org/course/introduction-to-dark-web-anonymity-and-cryptocurrency?logged=false
 
 
 ### Vulnerability Management.
@@ -50,6 +50,8 @@ Introduction to Dark Web, Anonymity, and Cryptocurrency por ECCouncil : https://
 🇬🇧 🆓🎓 Splunk Essentials : https://www.splunk.com/en_us/training/free-courses/overview.html
 
 🇬🇧 🆓🎓 Digital Forensics Essentials (DFE) por ECCouncil : https://codered.eccouncil.org/course/digital-forensics-essentials?logged=false
+
+🇬🇧 🆓🎓 Splunk Certified Cybersecurity Defense Analyst : https://www.splunk.com/en_us/training/certification-track/splunk-certified-cybersecurity-defense-analyst.html 
 
 
 
